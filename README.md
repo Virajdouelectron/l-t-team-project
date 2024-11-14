@@ -1,12 +1,12 @@
-# l&t-team-project < br / >
-# Batch No. 4 < br / >
-For L&T End-Term Projects. < br / >
+# l&t-team-project 
+# Batch No. 4 
+For L&T End-Term Projects. 
 
-Members: < br / >
+Members: 
 
-A. Vishnuvardhan Mani -24CS003372 < br / >
+A. Vishnuvardhan Mani -24CS003372 
 
-viraj Singh - 24CS003380 < br / >
+viraj Singh - 24CS003380 
 
-P.M.Jaswanth - 24cs003271 < br / >
+P.M.Jaswanth - 24cs003271 
 
