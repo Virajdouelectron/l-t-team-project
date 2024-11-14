@@ -1,4 +1,4 @@
-# l&t-team-project 
+# L&T-team-project 
 # Batch No. 4 
 For L&T End-Term Projects. 
 
